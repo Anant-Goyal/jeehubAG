@@ -4,17 +4,17 @@ export default function Footer() {
       <footer className="bg-white rounded-lg shadow m-4 dark:bg-stone-900">
         <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
           <span className="text-sm text-stone-200 sm:text-center">
-            © 2024{" "}
+            © 2025{" "}
             <a
               href="#"
               className="hover:underline font-bold"
             >
-              Jeehub™
+              AGJeehub™
             </a>
             . All Rights Reserved.
           </span>
           <span className="text-sm text-stone-400 font-bold sm:text-center flex  gap-x-2 text-muted-foreground px-1 py-2">
-            This site is made for personal use only , We don&apos;t use it in means
+            This site is made for personal use only , I don&apos;t use it in means
             of monetization.
           </span>
 
